@@ -1,5 +1,5 @@
 # hmmm
 
-*Coisa no dia-a-dia que me fazem dizer "Hmmm"*
+*Coisas do dia-a-dia que me fazem ou fizeram dizer "Hmmm"* (documentadas para que eu lembre delas).
 
 Listadas nas issues
